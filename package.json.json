@@ -1,0 +1,14 @@
+{
+  "name": "bot-quant-alpaca",
+  "version": "1.0.0",
+  "description": "Motor cuantitativo V5.3 para Alpaca API",
+  "main": "alpacaStrategy.js",
+  "type": "module",
+  "scripts": {
+    "start": "node alpacaStrategy.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "technicalindicators": "^3.1.0"
+  }
+}
